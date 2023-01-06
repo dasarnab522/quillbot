@@ -1,0 +1,28 @@
+.tright{
+    display: grid;
+    /* place-items: center; */
+    width: 40vw;
+}
+.trbody{
+    padding: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    box-shadow: 0 1px 3px rgba(255, 255, 255, 0.12),0 1px 3px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.12);
+    text-align: left;    
+}
+.trbody>Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trbody>h4{
+    background-color:#dc9e00;
+    height: 50px;
+    color: white;
+    padding: 0px;
+}
+.trbody>p{
+    height: 20px;
+    padding: 0px;
+    text-align: center;
+}

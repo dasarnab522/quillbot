@@ -1,0 +1,33 @@
+.last{
+    height: 100vh;
+    width: 99vw;
+    margin-top: 150px;
+}
+.para{
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+.proggg{
+    display: grid;
+}
+.prog1{
+    display: inline-flex;
+    flex: .3;
+    flex-direction: column;
+    place-content: center;
+    text-align: center;
+    width: 33vw;
+}
+.prog2{
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    width: 33vw;
+}
+.prog3{
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    width: 30vw;
+}

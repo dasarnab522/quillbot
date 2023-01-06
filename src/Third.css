@@ -1,0 +1,27 @@
+.thmain{
+    height: 100vh;
+    width: 99vw;
+    place-items: center;
+    text-align: center;
+}
+.thpara{
+    text-align: center;
+    display: grid;
+    place-items: center;
+    padding: 10px;
+}
+.subs{
+    display: flex;
+}
+.left{
+    display: flex;
+    flex-direction: row-reverse;
+    flex: 0.5;
+    
+}
+.right{
+    display: flex;
+    
+    flex: 0.5;
+    
+}

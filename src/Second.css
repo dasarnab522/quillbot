@@ -1,0 +1,33 @@
+.second{
+    display: flex;
+    background-image: url("https://assets.quillbot.com/images/theme/light/premiumPage/topBg.svg");
+    width: 90vw;
+}
+.imgs{
+    display: flex;
+    flex-direction: column;
+    flex: 0.50;
+}
+.text{
+    height: 70vh;
+    display:grid;
+    flex-direction: column;
+    flex: 0.50;
+}
+.progressBar {
+    /* height: 4px; */
+    height: 0.3vw;
+    background-color: rgb(222, 225, 227);
+    /* margin: 4px 0px; */
+    margin-top: 1vw;
+  }
+  
+  .progress {
+    /* height: 4px; */
+    height: 0.3vw;
+    background-color: #499557;
+  }
+  .selectedItem {
+    color: #252525;
+    /* font-weight: 550; */
+  }
